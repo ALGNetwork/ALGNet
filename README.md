@@ -1,7 +1,7 @@
 ### ALGNet
 Es un software que evalua los índices de los precios a los productores en el país de honduras en el área de la agricultura, ganado y leche total; para asi obtener la mayor ganancia.
 ## Integrantes
-1._Roger Leonidas Padilla Sandoval
+1.-Roger Leonidas Padilla Sandoval
 2._Gabriel Gustavo Flores Chavez
 3._Omar Edgardo Flores Casco
 4._Frank Emmanuel Diaz Perez
